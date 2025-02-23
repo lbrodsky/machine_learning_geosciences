@@ -4,4 +4,8 @@ Repository for Machine Learning in Geosciences couse. Code will be updated weekl
 
 0/ Python self-test
 
-1/ Python data science (Numerical Python, Linear algebra, Matplotlib)
+1/ Python  Linear algebra (Numerical Python)
+
+2/ Python data science (Numpy, Matplotlib)
+
+3/ Scikit-learn
