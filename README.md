@@ -8,4 +8,7 @@ Repository for Machine Learning in Geosciences couse. Code will be updated weekl
 
 2/ Python data science (Pandas, Numpy, Matplotlib)
 
-3/ Scikit-learn API
+3.1/ Scikit-learn API
+
+3.2/ Scikit-learn fundamental models benchmark
+
