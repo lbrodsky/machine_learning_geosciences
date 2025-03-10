@@ -10,6 +10,6 @@ Repository for Machine Learning in Geosciences couse. Code will be updated weekl
 
 3.1/ Scikit-learn API
 
-3.2/ Scikit-learn fundamental models benchmark
+3.2/ Scikit-learn fundamental models benchmark (interactive decision boundary plot) 
 
 4/ Model generalization
