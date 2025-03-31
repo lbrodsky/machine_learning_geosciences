@@ -15,3 +15,8 @@ Repository for Machine Learning in Geosciences couse. Code will be updated weekl
 4/ Model generalization
 
 5/ Model regularization
+
+6/ Ensemble learning
+
+7/ End-to-end model workflow
+
