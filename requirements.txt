@@ -8,5 +8,8 @@ scikit-learn==1.6.1
 rasterio==1.4.3
 geopandas==1.0.1
 jupyter==1.1.1
-iblearn=0.13.0
-contextily=1.6.2
+imbalanced-learn==0.13.0
+contextily==1.6.2
+torch==2.6.0
+torchvision==0.21.0
+segmentation-models-pytorch==0.4.0
