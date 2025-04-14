@@ -20,3 +20,10 @@ Repository for Machine Learning in Geosciences couse. Code will be updated weekl
 
 7/ End-to-end model workflow
 
+8/ GeoPython and Satellite Earth observation in ML
+
+9/ GeoPython and vector data analysis in ML project
+
+10/ Introduction to Geospatial Artificial Intelligence (GeoAI)
+
+11/ Spatial context in ML prediction (GeoAI methods) - CNN
