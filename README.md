@@ -27,3 +27,5 @@ Repository for Machine Learning in Geosciences couse. Code will be updated weekl
 10/ Introduction to Geospatial Artificial Intelligence (GeoAI)
 
 11/ Spatial context in ML prediction (GeoAI methods) - CNN
+
+12/ Explain ML models (xAI)
