@@ -4,5 +4,5 @@ Repository for Machine Learning in Geosciences couse. Code will be updated weekl
 
 0/ Python self-test
 
-1/ Computing environment (Demo Jupyter notebook)
+1/ Computing environment (Demo 1 Jupyter notebook)
 
