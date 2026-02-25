@@ -1,6 +1,6 @@
 # Machine Learning in Geosciences
 
-Repository for Machine Learning in Geosciences couse. Code will be updated weekly according to leactures update. 
+Repository for Machine Learning in Geosciences course. Code will be updated weekly according to leactures update. 
 
 0/ Python self-test
 
